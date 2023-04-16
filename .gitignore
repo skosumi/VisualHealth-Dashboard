@@ -1,0 +1,11 @@
+################################################
+###############  .gitignore   ##################
+################################################
+.DS_STORE
+.DS_Store
+nbproject
+.idea
+.resources
+.node_history
+**/.ipynb_checkpoints/
+.ipynb_checkpoints
